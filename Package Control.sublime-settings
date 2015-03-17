@@ -1,0 +1,31 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AngularJS",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"Floobits",
+		"Git",
+		"GitGutter",
+		"jQuery",
+		"JsFormat",
+		"Package Control",
+		"R-Box",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-lintr",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"Tag",
+		"TrailingSpaces"
+	]
+}
