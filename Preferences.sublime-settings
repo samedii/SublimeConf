@@ -1,6 +1,5 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -9,6 +8,5 @@
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"theme": "Default.sublime-theme"
+	"line_padding_top": 1
 }
