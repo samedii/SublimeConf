@@ -1,6 +1,8 @@
-*
+/*
 !.gitignore
-!README.md
-!Package Control.sublime-settings
-!Preferences.sublime-settings
-!Default (Windows).sublime-keymap
+!/README.md
+!/Package Control.sublime-settings
+!/Preferences.sublime-settings
+!/Default (Windows).sublime-keymap
+!/SublimeLinter.sublime-settings
+!/SublimeREPL/
