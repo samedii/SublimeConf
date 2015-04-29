@@ -2,7 +2,7 @@
 
 1. Need to [install package control](https://packagecontrol.io/installation) first of all
 2. Close sublime
-3. (On windows) go to: `C:\Users\<YOUR USERNAME>\AppData\Roaming\Sublime Text 3\Packages\User`
+3. (On windows) go to: `%UserProfile%\AppData\Roaming\Sublime Text 3\Packages\User`
 4. `git init`
 5. `git remote add origin http://github.com/samedii/SublimeConf`
 6. `git fetch`
